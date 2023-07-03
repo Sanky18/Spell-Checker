@@ -24,6 +24,7 @@ This program implements a spell checker that takes a string (a sentence or parag
 
 You can also find a screenshot of the program's output below:
 
-![Screenshot 2023-07-03 143605](https://github.com/Sanky18/Spell-Checker/assets/119156783/ae2a39f5-bc59-4caf-9c8e-09ff6c701aec)
+![image](https://github.com/Sanky18/Spell-Checker/assets/119156783/d87a980e-79e4-49d1-b7e4-7855888a5f2b)
+
 
 
