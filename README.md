@@ -23,6 +23,7 @@ This program implements a spell checker that takes a string (a sentence or parag
 9. **Spell Correction Output**: The program returns the corrected word to the user. If no correction is found, the original word is returned.
 
 You can also find a screenshot of the program's output below:
+
 ![Screenshot 2023-07-03 143605](https://github.com/Sanky18/Spell-Checker/assets/119156783/ae2a39f5-bc59-4caf-9c8e-09ff6c701aec)
 
 
