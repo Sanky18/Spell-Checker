@@ -23,8 +23,8 @@ This program implements a spell checker that takes a string (a sentence or parag
 9. **Spell Correction Output**: The program returns the corrected word to the user. If no correction is found, the original word is returned.
 
 You can also find a screenshot of the program's output below:
+![image](https://github.com/Sanky18/Spell-Checker/assets/119156783/4f3603fb-326b-45e2-a6e9-43fd3b031c49)
 
-![image](https://github.com/Sanky18/Spell-Checker/assets/119156783/d87a980e-79e4-49d1-b7e4-7855888a5f2b)
 
 
 
